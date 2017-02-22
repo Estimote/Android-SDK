@@ -1,14 +1,192 @@
-# IntelliJ IDEA
-.idea
-*.iml
-classes
-out
+'''
+   -  <?php
+   -  /**
+   -  Xmx8g
+   -  new: BeaconManager/iBeacon/AndroidSDK
+   -   maven clean compile:
+   -  ? effective model: "com.facebook.ads.sdk:
+   -  facebook-java-ads-sdk:jar:0.4.0
+   -  build: for "org.apache.maven.plugins:maven-source=plugin", is missing at line 32.column15
+   -  <--- maven-clean-plugin:2.5:clean --->
+   -  '/home/scrutinizer/build/node_modules/maven-clean-plugin/2.5/clean
+   -  <--- maven_compiler_plugin:3.1:compile --->
+   -  platform dependent:
+   ?
+   *
+   -   Scripts/Editor/"Watson Editor"/Henry-Baez
+   -  https://developer.android.com/sdkmanager  Android-7.1 version: sdk:25
+   -  watson.Developer.Cloud.UnityPackage, project,
+   -  Add the Watson SDK package by selecting "**Assets -> Import Package -> Custom Package**"
+   -  m_ClassifierData = new List <ClassifierData>();
+   -  for each (var file in Directory.GetFiles(m_ClassifiersFolder. "*.json));
+   -  private void: OnGUI()
+   -  m_New Classifier Name = m_ClassifiersFolder + "/" + m_New ClassifierName:Henry Baez + ".json".
+   -  private Texture m_Watson Icon = null:
+   -  private Vector2 m_Scroll Pos = Vector2.zero, "Watson.Developer.Cloud:UnityPackage"
+   -  project:'Estimote-SDK' and 'Android-SDK' and 'BLUETOOTH-ADMIN' permissions
+   -  # clone the Watson SDK repo: from GitHub.
+   -  # command: in your to read file
+   -  git clone "https://github.com/watson-developer-cloud/unity-sdk",
+   -  class member: m_
+   -  # Developers Certificate of Orgin 1.1
+   -
+   ?
+   *
+   -  src/FacebookAds/PpiConfig.php
+   -  namespace: FacebookAds:
+   -  class ApiConfig {
+   -  const APIVersion = "2.8",
+   -  const SDKVersion = "2.8.1",
+   -  const TYPE_CHECKER_STRICT_MODE = false;
+   ?
+   *
+   
+   
+   - Watson-Unity-SDK:
+   -  https://developer.ibm.com/AlchemyAPI.GetBackedConcepts(Outlet);
+   -  "if (!m_AlchemyAPI.GetBackedConcepts(outlet 
+   -  GetConcepts, m_ExampleURL_Unity-SDK))
+   -  "https://developer.ibm.com/open/2016/01/21/AlchemyLanguageAPIV1/
+   ?
+   *
+   
+   -  <html>
+   -  <head>
+   -  <title>Your Website Title</title>
+   -  <--- Comment #1: OG Tags --->
+   -  <meta property="og:url"
+   -  <meta property="og:type"
+   -  <meta property="of:title"
+   -  <meta property="og:description"
+   -  <meta property="og:image"
+   -  </head>
+   -  <body>
+   -  <--- Comment #2: SDK --->
+   -  content="http://www.apple.com/your-page.html" />
+   -  content="website" />
+   -  content="Your Website Title" />
+   -  content="Your description" />
+   -  content="http://image.jpg" />
+   -  <--- Comment #3: Content --->
+   -  <h1>Your Headline</h1>
+   -  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget tristique nibh, vel consequat purus. Praesent molestie, turpis ut ultrices commodo, felis arcu cursus enim, vel porttitor ante quam vel lacus. Quisque at laoreet sapien . Proin nec purus dolor. Integer pharetra nec ligula a condimentum. Fusce sem orci, porta ut felis id, commodo imperdiet risus.</p>
+   -  <--- Comment #4: Plugin Code --->
+   -  <div class="fb-quote"></div>
+   -  </body>
+   -  </html>
+   ?
+   *
+   -  Linux 4.4.0-02-generic
+   -  "/hone/scrutinizer/.nvm/versions/node/v6.2.0/bin/node", "/home/scrutinizer/.nvm/versions/node/v6.2.0/bin/npm", "install: Linux_4.4.0-02-generic";
+   - node: 'v6.2.0'
+   -  npm: 'v3.8.9'
+   - File:  package.json /home/scrutinizer/build/package.json
+   -  npm-debug.log@4.01 /home/scrutinizer/build/node_modules/npm-debug.log
+   -  ?
+   -  *
+   -  // You can get them by adding your app on https://cloud.estimote.com/#/apps
+   -  EstimoteSDK.intialize(getApplicationContext(), "<#App ID:"estimote-sdk-2wz"#>", <#App Token:"87a62f626f7483c25e2c03d33a0a99e2"#>");
+   -  Dependency: Maven Central via:'Gradle'
+   -  Estimote Android SDK is available on "Maven Central" Declare in your Gradle's <build.gradle> dependency to this library.
+   -  < dependencies { >
+   -  < compile "com.estimote:sdk:0.16.0@aar" >
+   -  Intialize Estimote SDK in your application:
+   -  class 'onCreate()method:'
+   -  App ID: "estimote-sdk-2wz"
+   -  Estimote SDK.enableDebugLogging(true);
+   -  < dependencies { >
+   -  < compile(name:'estimote-sdk-2wz', ext:'aar') >
+   -  <  }  >
+   -  "Estimote Cloud:"
+   -  App ID:"estimote-sdk-2wz"
+   -  App Token:"87a62f626f7483c25e2c03d33a0a99e2"
+   -  EstimoteSDK.intialize(applicationContext, appID, appToken)
+   -  Add dependency to Estimote SDK. All needed permissions(BLUETOOTH, BLUETOOTH_ADMIN, and INTERNET) and services will be merged from SDK's "AndroidManifest.xml" to your applications "AndroidManifest.xml" 
+   -  dependencies {
+   -  compile(name:"estimote-sdk-2wz", ext:"aar")
+   -  }
+   -  dependencies {
+   -  compile "com.estimote:sdk:0.16.0.@aar"
+   -  }
+   ?>
+   -  @0072016
+   -  https://developer.android.com/sdkmanager
+   -  foo.gradle@gmail.com
+   -  2017-02-21T23:03:13.002Z
+   -  */
+   - */
+   
 
-# Gradle
-.gradle
-build
-local.properties
-gen
+'''# IntelliJ IDEA>
+'''.idea>
+'''*.iml>
+'''classes>
+'''out>
 
-# Mac
-.DS_Store
+'''# Gradle>
+'''.gradle>
+'''build>
+'''local.properties>
+'''gen>
+
+'''# Mac>
+'''.DS_Store>
+   -  ibm.watson.developer.cloud@gmail.com
+   https://developer.apple.com/Xcode-8.2 OS X
+   2017-02-21T20:58:39.002Z
+
+
+
+
+
+    @0072016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
